@@ -1,3 +1,7 @@
+'''
+Programa desarrollado por Javier "JaviHax" Rivas 2019.
+'''
+
 print("\033[1;32;40m ______                                ")
 print("\033[1;32;40m | ___ \                               ")
 print("\033[1;32;40m | |_/ /_   _ _ __   __ _ _ __ _   _   ")
